@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"gamemusic",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":29.53848,
+  "exportDir":"",
+  "name":"gamemusic",
+  "parent":{
+    "name":"Cat_Dispensary_Machine",
+    "path":"Cat_Dispensary_Machine.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"gamemusic.wav",
+  "volume":1.0,
+}
