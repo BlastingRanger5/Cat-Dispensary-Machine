@@ -1,0 +1,2 @@
+alarm_set(0, 10*game_get_speed(gamespeed_fps));
+obj_text.writing_text = "How dare you lift your nose at the cat distribution system! Did you know these cats need homes? Did you know that even though this gashapon gives them food to eat, water to drink, and air to breathe, that maybe the cats want something more in this life? Wow. Just wow. A catless life is a disappointing one.";

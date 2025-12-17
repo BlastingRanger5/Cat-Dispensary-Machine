@@ -119,8 +119,8 @@
   "maintainGms1Font":false,
   "name":"fnt_menu",
   "parent":{
-    "name":"Cat_Dispensary_Machine",
-    "path":"Cat_Dispensary_Machine.yyp",
+    "name":"Fonts",
+    "path":"folders/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[
